@@ -2,3 +2,4 @@ aiogram==2.25.1
 PyYAML==6.0.1
 web3==6.11.4
 sqlalchemy==2.0.21
+qrcode==6.1
