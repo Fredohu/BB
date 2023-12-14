@@ -2,3 +2,5 @@
 
 telegram:
   API_TOKEN: "6935541429:AAEwSvtbhAPildvdSAvazBJLmEc2EUzQZXo"
+infura:
+  API_TOKEN: "2aee4a9d092946309306d44059d2f822"    
